@@ -14,3 +14,12 @@ github = "MineBill"
 
 rss = true
 monoDarkIcon = true
+
+[params.giscus]
+repo = 'MineBill/mineblog'                 # see https://giscus.app for more details
+repoId = 'R_kgDOKgN9RQ'
+category = 'Blog Comments'
+categoryId = 'DIC_kwDOKgN9Rc4CaINl'
+mapping = 'pathname'
+theme = 'preferred_color_scheme'
+lang = "en"
