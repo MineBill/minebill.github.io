@@ -1,0 +1,16 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = "MineBill's Blog"
+
+theme = "paper"
+
+[params]
+color = "gray"
+
+name = "MineBill"
+bio = "Tutorials and stuff."
+
+github = "MineBill"
+
+rss = true
+monoDarkIcon = true
