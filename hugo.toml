@@ -4,6 +4,9 @@ title = "MineBill's Blog"
 
 theme = "paper"
 
+[taxonomies]
+tag = "tags"
+
 [params]
 color = "gray"
 
@@ -11,6 +14,7 @@ name = "MineBill"
 bio = "Tutorials and stuff."
 
 github = "MineBill"
+mastodon = "https://mastodon.social/@minebill"
 
 rss = true
 monoDarkIcon = true
@@ -21,5 +25,5 @@ repoId = 'R_kgDOKgN9RQ'
 category = 'Blog Comments'
 categoryId = 'DIC_kwDOKgN9Rc4CaINl'
 mapping = 'pathname'
-theme = 'preferred_color_scheme'
+theme = 'noborder_dark'
 lang = "en"
