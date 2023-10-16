@@ -1,7 +1,7 @@
 ---
 title: 'Json Assets'
 date: 2023-10-16T15:14:15+03:00
-draft: true
+draft: false
 tags:
     - flax
 ---
